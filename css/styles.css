@@ -33,6 +33,9 @@ hr{
   width:4%;
   margin:50px auto;
 }
+.final{
+  line-height: 2;
+}
 a{
 color: #EAF6F6;
 font-family: 'montserrat', sans-serif;
