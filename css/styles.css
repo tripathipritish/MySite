@@ -33,9 +33,7 @@ hr{
   width:4%;
   margin:50px auto;
 }
-.final{
-  line-height: 2;
-}
+
 a{
 color: #EAF6F6;
 font-family: 'montserrat', sans-serif;
@@ -49,6 +47,9 @@ a:hover{
   width:30%;
   margin:auto;
   padding-bottom: 5px;
+}
+.final{
+  line-height: 2;
 }
 .photo{
 
